@@ -1,1 +1,93 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://kshitijchauhan.me/</loc><lastmod>2019-11-28T20:27:53+05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://kshitijchauhan.me/posts/</loc><lastmod>2019-11-28T20:27:53+05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://kshitijchauhan.me/2019/11/welcome/</loc><lastmod>2019-11-28T20:27:53+05:30</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://kshitijchauhan.me/about/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://kshitijchauhan.me/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://kshitijchauhan.me/projects/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url><loc>https://kshitijchauhan.me/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+        <url>
+            <loc>https://kshitijchauhan.me/</loc>
+            
+                <lastmod>2019-11-28T20:27:53+05:30</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://kshitijchauhan.me/posts/</loc>
+            
+                <lastmod>2019-11-28T20:27:53+05:30</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://kshitijchauhan.me/2019/11/welcome/</loc>
+            
+                <lastmod>2019-11-28T20:27:53+05:30</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://kshitijchauhan.me/about/</loc>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://kshitijchauhan.me/categories/</loc>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://kshitijchauhan.me/projects/</loc>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://kshitijchauhan.me/tags/</loc>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+</urlset>

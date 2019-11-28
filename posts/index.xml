@@ -1,3 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Kshitij Chauhan</title><link>https://kshitijchauhan.me/posts/</link><description>Recent content in Posts on Kshitij Chauhan</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 28 Nov 2019 20:27:53 +0530</lastBuildDate><atom:link href="https://kshitijchauhan.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome</title><link>https://kshitijchauhan.me/2019/11/welcome/</link><pubDate>Thu, 28 Nov 2019 20:27:53 +0530</pubDate><guid>https://kshitijchauhan.me/2019/11/welcome/</guid><description>Welcome to my website!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kshitij Chauhan</title>
+    <link>https://kshitijchauhan.me/posts/</link>
+    <description>Recent content in Posts on Kshitij Chauhan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Thu, 28 Nov 2019 20:27:53 +0530</lastBuildDate>
+    
+	<atom:link href="https://kshitijchauhan.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://kshitijchauhan.me/2019/11/welcome/</link>
+      <pubDate>Thu, 28 Nov 2019 20:27:53 +0530</pubDate>
+      
+      <guid>https://kshitijchauhan.me/2019/11/welcome/</guid>
+      <description>Welcome to my website!
 This is where I&#39;ll share blog posts as well as new projects.
-Feel free to look around!</description></item></channel></rss>
+Feel free to look around!</description>
+    </item>
+    
+  </channel>
+</rss>
