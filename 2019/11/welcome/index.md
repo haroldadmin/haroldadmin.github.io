@@ -1,7 +1,7 @@
-# Welcome
+# Welcome to my blog!
 
 
-Welcome to my website!
+Welcome to my blog!
 
 This is where I'll share blog posts as well as new projects.
 
