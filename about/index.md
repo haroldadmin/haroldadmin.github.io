@@ -35,4 +35,6 @@ Checkout my [GitHub profile](https://www.github.com/haroldadmin) to see everythi
 
 ### Contact
 
-The best way to contact me would over Twitter: [@haroldadmin](https://www.twitter.com/haroldadmin)
+You can email me [here](mailto:kshitijchauhan1105@outlook.com).
+
+You can also find me on Twitter: [@haroldadmin](https://www.twitter.com/haroldadmin)
