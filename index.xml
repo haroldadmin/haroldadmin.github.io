@@ -40,9 +40,9 @@
 &lt;ul&gt;
 &lt;li&gt;Android Development&lt;/li&gt;
 &lt;li&gt;Frontend web development (React)&lt;/li&gt;
-&lt;li&gt;Backend web development (NodeJS)&lt;/li&gt;
+&lt;li&gt;Backend web development (NodeJS, Go)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;I like playing with different programming languages. My language of choice is Kotlin, but I also like Java, JavaScript and Go.&lt;/p&gt;
+&lt;p&gt;I like playing with different programming languages. My language of choice is Kotlin, but I also like Java and Go.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
 &lt;p&gt;You can find some of my projects &lt;a href=&#34;https://kshitijchauhan.me/projects&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -54,7 +54,7 @@
 &lt;li&gt;Photography&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
-&lt;p&gt;You can email me &lt;a href=&#34;mailto:kshitijchauhan1105@outlook.com&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can email me &lt;a href=&#34;mailto:theharolddeveloper@gmail.com&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can also find me on Twitter: &lt;a href=&#34;https://www.twitter.com/haroldadmin&#34;&gt;@haroldadmin&lt;/a&gt;&lt;/p&gt;
 </description>
             </item>
@@ -84,6 +84,9 @@
 &lt;h2 id=&#34;networkresponseadapter&#34;&gt;NetworkResponseAdapter&lt;/h2&gt;
 &lt;p&gt;A Kotlin Coroutines based Call Adapter for Retrofit which handles errors as a part of its state.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/haroldadmin/NetworkResponseAdapter&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;whatthestack&#34;&gt;WhatTheStack&lt;/h2&gt;
+&lt;p&gt;An Android library to show you a pretty and informative error screen when your app crashes.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/haroldadmin/WhatTheStack&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;opengraphkt&#34;&gt;OpenGraphKt&lt;/h2&gt;
 &lt;p&gt;A dead simple open-graph tags parser for Kotlin&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/haroldadmin/OpenGraphKt&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;

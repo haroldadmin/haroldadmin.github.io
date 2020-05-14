@@ -27,6 +27,12 @@ A Kotlin Coroutines based Call Adapter for Retrofit which handles errors as a pa
 
 [GitHub](https://github.com/haroldadmin/NetworkResponseAdapter)
 
+## WhatTheStack
+
+An Android library to show you a pretty and informative error screen when your app crashes.
+
+[GitHub](https://github.com/haroldadmin/WhatTheStack)
+
 ## OpenGraphKt
 
 A dead simple open-graph tags parser for Kotlin
@@ -49,7 +55,7 @@ A TMDb client for Android
 
 [GitHub](https://github.com/haroldadmin/MovieDB) | [Play Store](https://play.google.com/store/apps/details?id=com.kshitijchauhan.haroldadmin.moviedb&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
------
+---
 
 I am always working on and learning new things.
 

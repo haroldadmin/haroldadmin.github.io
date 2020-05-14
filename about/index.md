@@ -9,17 +9,17 @@ I am currently a student at Delhi Technological University, pursuing my bachelor
 
 Here's a link to my resume: [Resume](https://standardresume.co/r/kshitijchauhan)
 
------
+---
 
 ### What I Do
 
-* Android Development
-* Frontend web development (React)
-* Backend web development (NodeJS)
+- Android Development
+- Frontend web development (React)
+- Backend web development (NodeJS, Go)
 
-I like playing with different programming languages. My language of choice is Kotlin, but I also like Java, JavaScript and Go.
+I like playing with different programming languages. My language of choice is Kotlin, but I also like Java and Go.
 
------
+---
 
 ### Projects
 
@@ -29,12 +29,12 @@ Checkout my [GitHub profile](https://www.github.com/haroldadmin) to see everythi
 
 ### My Hobbies
 
-* Running
-* Trekking
-* Photography
+- Running
+- Trekking
+- Photography
 
 ### Contact
 
-You can email me [here](mailto:kshitijchauhan1105@outlook.com).
+You can email me [here](mailto:theharolddeveloper@gmail.com).
 
 You can also find me on Twitter: [@haroldadmin](https://www.twitter.com/haroldadmin)
